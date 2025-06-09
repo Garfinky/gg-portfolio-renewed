@@ -1,3 +1,6 @@
+# Creating my portfolio
+The new Gareth Gillespie portfolio, built with the Portfolio Astro template.
+
 # Astro Starter Kit: Portfolio
 
 ```sh
