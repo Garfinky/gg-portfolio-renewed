@@ -18,7 +18,7 @@
 
 	--accent-light: #1ED6A6;  /* Mint Green */
 	--accent-regular: #159C86;  /* Teal Green */
-	--accent-dark: #0D5F50;  /* Darker Teal */
+	--accent-dark: #169976;  /* Darker Teal */
 	--accent-overlay: hsla(168, 70%, 55%, 0.33);
 	--accent-subtle-overlay: var(--accent-overlay);
 	--accent-text-over: var(--gray-999);
@@ -92,7 +92,7 @@
 	--gray-999-basis: 225, 31%, 5%;
 	--gray-999: #090b11;
 
-	--accent-light: #0D5F50;
+	--accent-light: #169976;
 	--accent-regular: #159C86;
 	--accent-dark: #1ED6A6;
 	--accent-overlay: hsla(168, 70%, 45%, 0.33);
