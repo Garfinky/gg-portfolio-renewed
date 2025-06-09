@@ -1,14 +1,14 @@
 ---
-title: Markdown Mystery Tour
-publishDate: 2020-03-02 00:00:00
+title: Photo Restoration
+publishDate: 2025-06-09 00:00:00
 img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Old photograph, restored, with creases and holes fixed
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  I had the pleasure of restoring some old family photos, bringing new life to them
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Photo Editing
+  - Restoration
+  - Photoshop
 ---
 
 ## Level-two heading
