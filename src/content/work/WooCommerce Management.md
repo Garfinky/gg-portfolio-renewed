@@ -12,7 +12,7 @@ tags:
   - WooCommerce
 ---
 
-## Building a Faster, Smarter WooCommerce Site  
+## Building a Faster, Smarter Wordpress Site  
 
 > A slow and buggy website hurts both UX and business performance. My goal was to transform Shapeshifter Nutrition’s e-commerce platform into a fast, efficient, and optimised space for customers.
 
