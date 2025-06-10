@@ -1,14 +1,14 @@
 ---
-title: Photo Restoration
+title: Chaos Crew Re-Brand
 publishDate: 2025-06-09 00:00:00
-img: /assets/stock-1.jpg
+img: /assets/rebrand-1.jpg
 img_alt: Old photograph, restored, with creases and holes fixed
 description: |
-  Bringing new life to family photos, restoring and preserving memories.
+  Updating and refreshing the Chaos Crew brand.
 tags:
-  - Photo Editing
-  - Restoration
-  - Photoshop
+  - Label Design
+  - Branding
+  - Illustrator
 ---
 
 ## Level-two heading
