@@ -8,6 +8,8 @@ import Hero from '../../components/Hero.astro';
 import Icon from '../../components/Icon.astro';
 import Pill from '../../components/Pill.astro';
 import { render } from 'astro:content';
+import GalleryPreview from '../../components/GalleryPreview.astro';
+import Grid from '../../components/Grid.astro';
 
 interface Props {
 	entry: CollectionEntry<'work'>;
@@ -26,6 +28,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+const gallery = entry.data.gallery;
 ---
 
 <BaseLayout title={entry.data.title} description={entry.data.description}>
@@ -51,6 +54,17 @@ const { Content } = await render(entry);
 						<Content />
 					</div>
 				</div>
+				{Array.isArray(gallery) && gallery.length > 0 && (
+				<div style="margin-top: 6rem;">
+					<Grid variant="offset">
+  						{gallery.map(image => (
+    						<li>
+    						  <GalleryPreview image={image} />
+    						</li>
+  						))}
+					</Grid>
+				</div>
+				)}
 			</main>
 		</div>
 		<ContactCTA />

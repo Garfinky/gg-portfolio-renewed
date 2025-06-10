@@ -9,6 +9,19 @@ tags:
   - Photo Editing
   - Restoration
   - Photoshop
+gallery:
+  - src: /assets/photo-restore-before-1.jpg
+    alt: The Chaos Crew Logo, Before and After
+  - src: /assets/photo-restore-after-1.jpg
+    alt: Chaos Crew, new brand guidelines
+  - src: /assets/photo-restore-before-2.jpg
+    alt: Design for promotional materials
+  - src: /assets/photo-restore-after-2.jpg
+    alt: Tracy wearing the new Chaos Crew T-Shirt
+  - src: /assets/photo-restore-before-3.jpg
+    alt: Tracy wearing the new Chaos Crew T-Shirt
+  - src: /assets/photo-restore-after-3.jpg
+    alt: Tracy wearing the new Chaos Crew T-Shirt
 ---
 
 ## Level-two heading

@@ -9,6 +9,15 @@ tags:
   - Label Design
   - Branding
   - Illustrator
+gallery:
+  - src: /assets/rebrand-2.jpg
+    alt: The Chaos Crew Logo, Before and After
+  - src: /assets/rebrand-3.jpg
+    alt: Chaos Crew, new brand guidelines
+  - src: /assets/rebrand-4.jpg
+    alt: Design for promotional materials
+  - src: /assets/rebrand-5.jpg
+    alt: Tracy wearing the new Chaos Crew T-Shirt
 ---
 
 ## Level-two heading

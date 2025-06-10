@@ -1,14 +1,26 @@
 ---
-title: h2.0
-publishDate: 2019-10-02 00:00:00
-img: /assets/stock-4.jpg
-img_alt: Soft pink and baby blue water ripples together in a subtle texture.
+title: Content Shoot Day 
+publishDate: 2019-12-01 00:00:00
+img: /assets/stock-2.jpg
+img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  We developed brand positioning and design assets for the launch
-  of a new colored water product.
+  We paired with a cutting-edge music API and a team of horticulturalists
+  to build AI-generated playlists that maximize houseplant health.
 tags:
-  - Design
-  - Branding
+  - Photography
+  - Planning
+  - Content Creation
+gallery:
+  - src: /assets/photo-shoot-gallery-1.jpg
+    alt: Gemma tries Chaos Crew Juicy
+  - src: /assets/photo-shoot-gallery-2.jpg
+    alt: Gemma with Chaos Crew Omega 3
+  - src: /assets/photo-shoot-gallery-3.jpg
+    alt: Athletes Laughing together
+  - src: /assets/photo-shoot-gallery-4.jpg
+    alt: Oisin with Muscle Rage branded clothing and shaker
+  - src: /assets/photo-shoot-gallery-5.jpg
+    alt: Oisin performs a pull down
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
