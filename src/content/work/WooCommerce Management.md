@@ -33,6 +33,6 @@ Beyond the initial fixes, I now oversee daily website operations, handling produ
 - Manage ongoing performance and SEO updates
 
 Check out the websites I manage below:
-- <a href="#">Shapeshifter Nutrition</a>
-- <a href="#">Shapeshifter Distribution</a>
-- <a href="#">Chaos Crew</a>
+- <a href="https://www.shapeshifternutrition.co.uk">Shapeshifter Nutrition</a>
+- <a href="https://www.shapeshifterdistribution.co.uk">Shapeshifter Distribution</a>
+- <a href="https://www.bringthechaos.com">Chaos Crew</a>
