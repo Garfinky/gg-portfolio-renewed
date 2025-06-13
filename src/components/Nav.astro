@@ -15,6 +15,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 	{ label: 'Linked In', href: 'https://www.linkedin.com/in/gareth-gillespie/', icon: 'linkedin-logo' },
 	{ label: 'GitHub', href: 'https://github.com/Garfinky', icon: 'github-logo' },
 	{ label: 'Instagram', href: 'https://www.instagram.com/gmedia88/', icon: 'instagram-logo' },
+	{ label: 'Twitch', href: 'https://www.twitch.tv/garfinky', icon: 'twitch-logo'},
 ];
 
 /** Test if a link is pointing to the current page. */
@@ -252,7 +253,7 @@ const isCurrentPage = (href: string) => {
 
 	.social:hover,
 	.social:focus {
-		color: var(--accent-text-over);
+		color: var(--accent-light);
 	}
 
 	.theme-toggle {
