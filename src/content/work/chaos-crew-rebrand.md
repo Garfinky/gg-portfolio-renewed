@@ -1,6 +1,6 @@
 ---
 title: Chaos Crew Re-Brand
-publishDate: 2025-06-09 00:00:00
+publishDate: 2025-06-14 00:00:00
 img: /assets/rebrand-1.jpg
 img_alt: Old photograph, restored, with creases and holes fixed
 description: |
