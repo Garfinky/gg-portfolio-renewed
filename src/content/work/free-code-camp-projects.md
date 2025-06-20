@@ -11,7 +11,7 @@ tags:
   - FreeCodeCamp
 ---
 
-## From Zero to Front-End Hero: My FreeCodeCamp Journey
+## From Zero to Front-End Hero
 
 ### The Front End Development Libraries Certification
 
