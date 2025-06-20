@@ -11,9 +11,9 @@ tags:
   - FreeCodeCamp
 ---
 
-# From Zero to Front-End Hero: My FreeCodeCamp Journey
+## From Zero to Front-End Hero: My FreeCodeCamp Journey
 
-## How I Completed the Front End Development Libraries Certification
+### The Front End Development Libraries Certification
 
 > Taking on the FreeCodeCamp Front End Development Libraries Certification taught me how to think like a front-end developer.
 
